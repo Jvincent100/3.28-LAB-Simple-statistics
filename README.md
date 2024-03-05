@@ -1,5 +1,5 @@
 3.28 LAB: Simple statistics
-<p>Part 1</p>
+<h2>Part 1</h2>
 Given 4 integers, output their product and their average, using integer arithmetic.
 <img width="755" alt="Screenshot 2024-03-05 at 2 44 48 PM" src="https://github.com/Jvincent100/3.28-LAB-Simple-statistics/assets/155997904/c8e30c7a-dddc-4e2e-a016-977f165f845e">
 <p></p>Note: Integer division discards the fraction. Hence the average of 8 10 5 4 is output as 6, not 6.75.</p>
@@ -8,7 +8,7 @@ Note: The test cases include four very large input values whose product results 
 
 Submit the above for grading. Your program will fail the last test cases (which is expected), until you complete part 2 below.
 
-Part 2
+<h2>Part 2</h2>
 Also output the product and average, using floating-point arithmetic.
 
 Output each floating-point value with three digits after the decimal point, which can be achieved by executing
